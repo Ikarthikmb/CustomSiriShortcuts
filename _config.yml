@@ -1,1 +1,6 @@
 theme: jekyll-theme-tactile
+navbar:
+ title: "Menu"
+ left: 
+  - text: "Text"
+    href: text.html
