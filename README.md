@@ -3,6 +3,7 @@
 1) **Markdown to Rich text**
 
 - Input any text to this shortcut, which will be rendered to text and save it as pdf.  
+
 Link to shortcut | [Markdown to Rich text](https://www.icloud.com/shortcuts/9f06a83323e449ba8684544837a361ba)
 --- | ---
 
