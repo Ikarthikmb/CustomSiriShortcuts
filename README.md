@@ -1,4 +1,4 @@
-# Make your Own Custom Siri Shortcuts with Block Coding
+# Make your Own Custom Siri Shortcuts with Blocks
 
 1. **Markdown to Rich text**
 
