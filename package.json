@@ -8,6 +8,11 @@
     "deploy": "hexo deploy",
     "server": "hexo server"
   },
+
+  "scripts": {
+    "build": "hexo generate"
+  },
+
   "hexo": {
     "version": "5.4.0"
   },
